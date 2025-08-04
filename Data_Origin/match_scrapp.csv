@@ -1,0 +1,381 @@
+Week,Day,Date,MatchTime,HomeTeam,HXG,Result,AXG,AwayTeam,Attendance,Stadium
+1,Fri,8/11/2023,8:00:00 PM,Burnley,0.3,0-3,1.9,Manchester City,21572,Turf Moor
+1,Sat,8/12/2023,12:30:00 PM,Arsenal,0.8,2-1,1.2,Nott'ham Forest,59984,Emirates Stadium
+1,Sat,8/12/2023,3:00:00 PM,Everton,2.7,0-1,1.5,Fulham,39940,Goodison Park
+1,Sat,8/12/2023,3:00:00 PM,Brighton,4,4-1,1.5,Luton Town,31872,Amex Stadium
+1,Sat,8/12/2023,3:00:00 PM,Sheffield Utd,0.5,0-1,1.9,Crystal Palace,31194,Bramall Lane
+1,Sat,8/12/2023,3:00:00 PM,Bournemouth,1.3,1-1,1.1,West Ham,11245,Vitality Stadium
+1,Sat,8/12/2023,5:30:00 PM,Newcastle Utd,3.3,5-1,1.8,Aston Villa,52207,St James' Park
+1,Sun,8/13/2023,2:00:00 PM,Brentford,2.2,2-2,1.3,Tottenham,17066,Gtech Community Stadium
+1,Sun,8/13/2023,4:30:00 PM,Chelsea,1.4,1-1,1.3,Liverpool,40096,Stamford Bridge
+1,Mon,8/14/2023,8:00:00 PM,Manchester Utd,2.2,1-0,2.2,Wolves,73358,Old Trafford
+2,Fri,8/18/2023,7:45:00 PM,Nott'ham Forest,1.4,2-1,0.5,Sheffield Utd,29432,City Ground
+2,Sat,8/19/2023,3:00:00 PM,Wolves,2.1,1-4,2.2,Brighton,31317,Molineux Stadium
+2,Sat,8/19/2023,3:00:00 PM,Fulham,0.5,0-3,3.7,Brentford,24236,Craven Cottage
+2,Sat,8/19/2023,3:00:00 PM,Liverpool,3,3-1,1.3,Bournemouth,53145,Anfield
+2,Sat,8/19/2023,5:30:00 PM,Tottenham,1.7,2-0,2.1,Manchester Utd,61910,Tottenham Hotspur Stadium
+2,Sat,8/19/2023,8:00:00 PM,Manchester City,1,1-0,0.3,Newcastle Utd,53419,Etihad Stadium
+2,Sun,8/20/2023,2:00:00 PM,Aston Villa,2.9,4-0,0.6,Everton,41694,Villa Park
+2,Sun,8/20/2023,4:30:00 PM,West Ham,1.8,3-1,2.5,Chelsea,62451,London Stadium
+2,Mon,8/21/2023,8:00:00 PM,Crystal Palace,1,0-1,2,Arsenal,24189,Selhurst Park
+3,Fri,8/25/2023,8:00:00 PM,Chelsea,2.2,3-0,0.4,Luton Town,39893,Stamford Bridge
+3,Sat,8/26/2023,12:30:00 PM,Bournemouth,0.7,0-2,2.1,Tottenham,10567,Vitality Stadium
+3,Sat,8/26/2023,3:00:00 PM,Everton,1.3,0-1,1.1,Wolves,38851,Goodison Park
+3,Sat,8/26/2023,3:00:00 PM,Manchester Utd,2.8,3-2,1.2,Nott'ham Forest,73595,Old Trafford
+3,Sat,8/26/2023,3:00:00 PM,Brentford,1,1-1,0.8,Crystal Palace,16997,Gtech Community Stadium
+3,Sat,8/26/2023,3:00:00 PM,Arsenal,3.2,2-2,0.6,Fulham,59961,Emirates Stadium
+3,Sat,8/26/2023,5:30:00 PM,Brighton,1.5,1-3,3,West Ham,31508,Amex Stadium
+3,Sun,8/27/2023,2:00:00 PM,Sheffield Utd,0.7,1-2,3.5,Manchester City,31336,Bramall Lane
+3,Sun,8/27/2023,2:00:00 PM,Burnley,0.7,1-3,2.5,Aston Villa,21591,Turf Moor
+3,Sun,8/27/2023,4:30:00 PM,Newcastle Utd,2,1-2,0.9,Liverpool,52214,St James' Park
+4,Fri,9/1/2023,8:00:00 PM,Luton Town,1.4,1-2,1,West Ham,10802,Kenilworth Road
+4,Sat,9/2/2023,12:30:00 PM,Sheffield Utd,1.2,2-2,2.5,Everton,31124,Bramall Lane
+4,Sat,9/2/2023,3:00:00 PM,Brentford,2.9,2-2,2.1,Bournemouth,16973,Gtech Community Stadium
+4,Sat,9/2/2023,3:00:00 PM,Manchester City,2.2,5-1,1.4,Fulham,52899,Etihad Stadium
+4,Sat,9/2/2023,3:00:00 PM,Chelsea,2.3,0-1,0.8,Nott'ham Forest,39820,Stamford Bridge
+4,Sat,9/2/2023,3:00:00 PM,Burnley,1.3,2-5,2.2,Tottenham,21750,Turf Moor
+4,Sat,9/2/2023,5:30:00 PM,Brighton,1.3,3-1,1.2,Newcastle Utd,31620,Amex Stadium
+4,Sun,9/3/2023,2:00:00 PM,Crystal Palace,2.1,3-2,1.2,Wolves,24741,Selhurst Park
+4,Sun,9/3/2023,2:00:00 PM,Liverpool,2.5,3-0,0.7,Aston Villa,50109,Anfield
+4,Sun,9/3/2023,4:30:00 PM,Arsenal,2.3,3-1,0.9,Manchester Utd,60192,Emirates Stadium
+5,Sat,9/16/2023,12:30:00 PM,Wolves,0.6,1-3,2.5,Liverpool,31257,Molineux Stadium
+5,Sat,9/16/2023,3:00:00 PM,Tottenham,2.1,2-1,0.7,Sheffield Utd,61706,Tottenham Hotspur Stadium
+5,Sat,9/16/2023,3:00:00 PM,West Ham,0.9,1-3,3.6,Manchester City,62475,London Stadium
+5,Sat,9/16/2023,3:00:00 PM,Aston Villa,3,3-1,1.2,Crystal Palace,40809,Villa Park
+5,Sat,9/16/2023,3:00:00 PM,Fulham,1,1-0,1.1,Luton Town,24467,Craven Cottage
+5,Sat,9/16/2023,3:00:00 PM,Manchester Utd,1,1-3,1.7,Brighton,73592,Old Trafford
+5,Sat,9/16/2023,5:30:00 PM,Newcastle Utd,1.4,1-0,0.5,Brentford,51670,St James' Park
+5,Sun,9/17/2023,2:00:00 PM,Bournemouth,1,0-0,1.8,Chelsea,10421,Vitality Stadium
+5,Sun,9/17/2023,4:30:00 PM,Everton,0.3,0-1,1,Arsenal,39217,Goodison Park
+5,Mon,9/18/2023,7:45:00 PM,Nott'ham Forest,0.7,1-1,0.5,Burnley,28958,City Ground
+6,Sat,9/23/2023,3:00:00 PM,Luton Town,2.1,1-1,0.6,Wolves,10893,Kenilworth Road
+6,Sat,9/23/2023,3:00:00 PM,Manchester City,1.3,2-0,1,Nott'ham Forest,53413,Etihad Stadium
+6,Sat,9/23/2023,3:00:00 PM,Crystal Palace,0.3,0-0,0.6,Fulham,25072,Selhurst Park
+6,Sat,9/23/2023,5:30:00 PM,Brentford,1,1-3,1.9,Everton,16981,Gtech Community Stadium
+6,Sat,9/23/2023,8:00:00 PM,Burnley,1.1,0-1,1,Manchester Utd,21593,Turf Moor
+6,Sun,9/24/2023,2:00:00 PM,Chelsea,1.3,0-1,1,Aston Villa,39700,Stamford Bridge
+6,Sun,9/24/2023,2:00:00 PM,Arsenal,1.8,2-2,1.4,Tottenham,60156,Emirates Stadium
+6,Sun,9/24/2023,2:00:00 PM,Liverpool,3,3-1,1.1,West Ham,50136,Anfield
+6,Sun,9/24/2023,2:00:00 PM,Brighton,1.9,3-1,1.1,Bournemouth,31617,Amex Stadium
+6,Sun,9/24/2023,4:30:00 PM,Sheffield Utd,0.9,0-8,3.9,Newcastle Utd,31127,Bramall Lane
+7,Sat,9/30/2023,12:30:00 PM,Aston Villa,1.6,6-1,1.7,Brighton,40636,Villa Park
+7,Sat,9/30/2023,3:00:00 PM,Manchester Utd,1.3,0-1,0.9,Crystal Palace,73428,Old Trafford
+7,Sat,9/30/2023,3:00:00 PM,Wolves,0.4,2-1,0.9,Manchester City,31415,Molineux Stadium
+7,Sat,9/30/2023,3:00:00 PM,West Ham,2.1,2-0,1.1,Sheffield Utd,62459,London Stadium
+7,Sat,9/30/2023,3:00:00 PM,Bournemouth,0.6,0-4,3.4,Arsenal,11193,Vitality Stadium
+7,Sat,9/30/2023,3:00:00 PM,Newcastle Utd,3.1,2-0,0.6,Burnley,51687,St James' Park
+7,Sat,9/30/2023,3:00:00 PM,Everton,2.9,1-2,0.9,Luton Town,39289,Goodison Park
+7,Sat,9/30/2023,5:30:00 PM,Tottenham,2.2,2-1,1.3,Liverpool,62001,Tottenham Hotspur Stadium
+7,Sun,10/1/2023,2:00:00 PM,Nott'ham Forest,0.5,1-1,1.6,Brentford,29004,City Ground
+7,Mon,10/2/2023,8:00:00 PM,Fulham,1.1,0-2,1.7,Chelsea,24445,Craven Cottage
+2,Tue,10/3/2023,7:30:00 PM,Luton Town,1.3,1-2,1.1,Burnley,10918,Kenilworth Road
+8,Sat,10/7/2023,12:30:00 PM,Luton Town,0.8,0-1,1.9,Tottenham,10290,Kenilworth Road
+8,Sat,10/7/2023,3:00:00 PM,Burnley,0.7,1-4,1.9,Chelsea,21654,Turf Moor
+8,Sat,10/7/2023,3:00:00 PM,Manchester Utd,1.4,2-1,0.9,Brentford,73453,Old Trafford
+8,Sat,10/7/2023,3:00:00 PM,Everton,2.4,3-0,0.7,Bournemouth,38815,Goodison Park
+8,Sat,10/7/2023,3:00:00 PM,Fulham,2.2,3-1,0.6,Sheffield Utd,24361,Craven Cottage
+8,Sat,10/7/2023,5:30:00 PM,Crystal Palace,0.8,0-0,1,Nott'ham Forest,25017,Selhurst Park
+8,Sun,10/8/2023,2:00:00 PM,West Ham,1.2,2-2,2,Newcastle Utd,62473,London Stadium
+8,Sun,10/8/2023,2:00:00 PM,Wolves,1.7,1-1,1.6,Aston Villa,31425,Molineux Stadium
+8,Sun,10/8/2023,2:00:00 PM,Brighton,2.3,2-2,2.3,Liverpool,31752,Amex Stadium
+8,Sun,10/8/2023,4:30:00 PM,Arsenal,0.4,1-0,0.5,Manchester City,60233,Emirates Stadium
+9,Sat,10/21/2023,12:30:00 PM,Liverpool,2.2,2-0,0.1,Everton,50201,Anfield
+9,Sat,10/21/2023,3:00:00 PM,Brentford,3.1,3-0,1.1,Burnley,17029,Gtech Community Stadium
+9,Sat,10/21/2023,3:00:00 PM,Nott'ham Forest,2.9,2-2,1.7,Luton Town,29361,City Ground
+9,Sat,10/21/2023,3:00:00 PM,Bournemouth,0.6,1-2,2.4,Wolves,11175,Vitality Stadium
+9,Sat,10/21/2023,3:00:00 PM,Newcastle Utd,2.4,4-0,1.2,Crystal Palace,52189,St James' Park
+9,Sat,10/21/2023,3:00:00 PM,Manchester City,0.8,2-1,0.8,Brighton,53466,Etihad Stadium
+9,Sat,10/21/2023,5:30:00 PM,Chelsea,1.3,2-2,1,Arsenal,39723,Stamford Bridge
+9,Sat,10/21/2023,8:00:00 PM,Sheffield Utd,1.4,1-2,1.1,Manchester Utd,31543,Bramall Lane
+9,Sun,10/22/2023,4:30:00 PM,Aston Villa,1.9,4-1,1.1,West Ham,41734,Villa Park
+9,Mon,10/23/2023,8:00:00 PM,Tottenham,1.5,2-0,1,Fulham,61286,Tottenham Hotspur Stadium
+10,Fri,10/27/2023,8:00:00 PM,Crystal Palace,0.6,1-2,1.1,Tottenham,25074,Selhurst Park
+10,Sat,10/28/2023,12:30:00 PM,Chelsea,1.9,0-2,2.2,Brentford,39575,Stamford Bridge
+10,Sat,10/28/2023,3:00:00 PM,Arsenal,2.8,5-0,0,Sheffield Utd,60153,Emirates Stadium
+10,Sat,10/28/2023,3:00:00 PM,Bournemouth,1.1,2-1,0.8,Burnley,11152,Vitality Stadium
+10,Sat,10/28/2023,5:30:00 PM,Wolves,0.9,2-2,2.2,Newcastle Utd,31584,Molineux Stadium
+10,Sun,10/29/2023,1:00:00 PM,West Ham,0.7,0-1,0.8,Everton,62469,London Stadium
+10,Sun,10/29/2023,2:00:00 PM,Brighton,1.4,1-1,0.7,Fulham,31550,Amex Stadium
+10,Sun,10/29/2023,2:00:00 PM,Liverpool,3.2,3-0,0.4,Nott'ham Forest,50143,Anfield
+10,Sun,10/29/2023,2:00:00 PM,Aston Villa,2.3,3-1,0.5,Luton Town,41785,Villa Park
+10,Sun,10/29/2023,3:30:00 PM,Manchester Utd,0.9,0-3,4,Manchester City,73502,Old Trafford
+11,Sat,11/4/2023,12:30:00 PM,Fulham,1,0-1,0.7,Manchester Utd,24415,Craven Cottage
+11,Sat,11/4/2023,3:00:00 PM,Brentford,1.5,3-2,1.8,West Ham,17103,Gtech Community Stadium
+11,Sat,11/4/2023,3:00:00 PM,Burnley,1.1,0-2,1.3,Crystal Palace,21578,Turf Moor
+11,Sat,11/4/2023,3:00:00 PM,Manchester City,1.9,6-1,0.9,Bournemouth,53358,Etihad Stadium
+11,Sat,11/4/2023,3:00:00 PM,Everton,0.7,1-1,0.5,Brighton,38683,Goodison Park
+11,Sat,11/4/2023,3:00:00 PM,Sheffield Utd,1,2-1,1.2,Wolves,29454,Bramall Lane
+11,Sat,11/4/2023,5:30:00 PM,Newcastle Utd,1,1-0,0.6,Arsenal,52194,St James' Park
+11,Sun,11/5/2023,2:00:00 PM,Nott'ham Forest,0.4,2-0,1.2,Aston Villa,29313,City Ground
+11,Sun,11/5/2023,4:30:00 PM,Luton Town,0.8,1-1,2.6,Liverpool,11049,Kenilworth Road
+11,Mon,11/6/2023,8:00:00 PM,Tottenham,0.9,1-4,4.1,Chelsea,61726,Tottenham Hotspur Stadium
+12,Sat,11/11/2023,12:30:00 PM,Wolves,2.1,2-1,0.7,Tottenham,31642,Molineux Stadium
+12,Sat,11/11/2023,3:00:00 PM,Manchester Utd,2.2,1-0,0.4,Luton Town,73599,Old Trafford
+12,Sat,11/11/2023,3:00:00 PM,Crystal Palace,2.2,2-3,1.5,Everton,25103,Selhurst Park
+12,Sat,11/11/2023,3:00:00 PM,Arsenal,1.8,3-1,0.3,Burnley,60232,Emirates Stadium
+12,Sat,11/11/2023,5:30:00 PM,Bournemouth,2.4,2-0,0.5,Newcastle Utd,11201,Vitality Stadium
+12,Sun,11/12/2023,2:00:00 PM,Aston Villa,3,3-1,0.9,Fulham,41608,Villa Park
+12,Sun,11/12/2023,2:00:00 PM,Brighton,1.5,1-1,1.1,Sheffield Utd,31367,Amex Stadium
+12,Sun,11/12/2023,2:00:00 PM,Liverpool,1.7,3-0,1.6,Brentford,50151,Anfield
+12,Sun,11/12/2023,2:00:00 PM,West Ham,1.8,3-2,1.7,Nott'ham Forest,62470,London Stadium
+12,Sun,11/12/2023,4:30:00 PM,Chelsea,2.9,4-4,2.9,Manchester City,39532,Stamford Bridge
+13,Sat,11/25/2023,12:30:00 PM,Manchester City,1.3,1-1,0.6,Liverpool,53289,Etihad Stadium
+13,Sat,11/25/2023,3:00:00 PM,Sheffield Utd,0.8,1-3,2.9,Bournemouth,30208,Bramall Lane
+13,Sat,11/25/2023,3:00:00 PM,Newcastle Utd,2.4,4-1,0.5,Chelsea,52227,St James' Park
+13,Sat,11/25/2023,3:00:00 PM,Luton Town,0.9,2-1,1.6,Crystal Palace,11029,Kenilworth Road
+13,Sat,11/25/2023,3:00:00 PM,Burnley,1.3,1-2,0.9,West Ham,21319,Turf Moor
+13,Sat,11/25/2023,3:00:00 PM,Nott'ham Forest,1.9,2-3,1.3,Brighton,29404,City Ground
+13,Sat,11/25/2023,5:30:00 PM,Brentford,1.1,0-1,1.6,Arsenal,17201,Gtech Community Stadium
+13,Sun,11/26/2023,2:00:00 PM,Tottenham,2.3,1-2,1.7,Aston Villa,61679,Tottenham Hotspur Stadium
+13,Sun,11/26/2023,4:30:00 PM,Everton,2.4,0-3,2.2,Manchester Utd,39257,Goodison Park
+13,Mon,11/27/2023,8:00:00 PM,Fulham,2.9,3-2,1.4,Wolves,24366,Craven Cottage
+14,Sat,12/2/2023,3:00:00 PM,Arsenal,2.8,2-1,0.7,Wolves,60262,Emirates Stadium
+14,Sat,12/2/2023,3:00:00 PM,Brentford,3.1,3-1,0.2,Luton Town,17075,Gtech Community Stadium
+14,Sat,12/2/2023,3:00:00 PM,Burnley,1.8,5-0,0.4,Sheffield Utd,21478,Turf Moor
+14,Sat,12/2/2023,5:30:00 PM,Nott'ham Forest,0.7,0-1,0.7,Everton,29404,City Ground
+14,Sat,12/2/2023,8:00:00 PM,Newcastle Utd,2.4,1-0,0.5,Manchester Utd,52214,St James' Park
+14,Sun,12/3/2023,2:00:00 PM,Bournemouth,2,2-2,0.7,Aston Villa,11191,Vitality Stadium
+14,Sun,12/3/2023,2:00:00 PM,West Ham,1.1,1-1,0.9,Crystal Palace,62414,London Stadium
+14,Sun,12/3/2023,2:00:00 PM,Liverpool,2.1,4-3,1.2,Fulham,50124,Anfield
+14,Sun,12/3/2023,2:00:00 PM,Chelsea,2.1,3-2,1.1,Brighton,39647,Stamford Bridge
+14,Sun,12/3/2023,4:30:00 PM,Manchester City,2.6,3-3,0.5,Tottenham,53473,Etihad Stadium
+15,Tue,12/5/2023,7:30:00 PM,Wolves,0.8,1-0,0.9,Burnley,30439,Molineux Stadium
+15,Tue,12/5/2023,8:15:00 PM,Luton Town,0.5,3-4,2.2,Arsenal,11031,Kenilworth Road
+15,Wed,12/6/2023,7:30:00 PM,Sheffield Utd,1,0-2,1.7,Liverpool,31406,Bramall Lane
+15,Wed,12/6/2023,7:30:00 PM,Brighton,1.5,2-1,1.5,Brentford,31571,Amex Stadium
+15,Wed,12/6/2023,7:30:00 PM,Crystal Palace,1,0-2,1.8,Bournemouth,25078,Selhurst Park
+15,Wed,12/6/2023,7:30:00 PM,Fulham,2.5,5-0,0.3,Nott'ham Forest,24105,Craven Cottage
+15,Wed,12/6/2023,8:15:00 PM,Aston Villa,2.3,1-0,0.6,Manchester City,41421,Villa Park
+15,Wed,12/6/2023,8:15:00 PM,Manchester Utd,4.1,2-1,1.5,Chelsea,73607,Old Trafford
+15,Thu,12/7/2023,7:30:00 PM,Everton,3.3,3-0,1.5,Newcastle Utd,38198,Goodison Park
+15,Thu,12/7/2023,8:15:00 PM,Tottenham,1.8,1-2,2.2,West Ham,61171,Tottenham Hotspur Stadium
+16,Sat,12/9/2023,12:30:00 PM,Crystal Palace,1.7,1-2,1.2,Liverpool,25103,Selhurst Park
+16,Sat,12/9/2023,3:00:00 PM,Sheffield Utd,0.8,1-0,0.6,Brentford,28509,Bramall Lane
+16,Sat,12/9/2023,3:00:00 PM,Brighton,2.6,1-1,0.6,Burnley,31511,Amex Stadium
+16,Sat,12/9/2023,3:00:00 PM,Wolves,1.2,1-1,1.3,Nott'ham Forest,31543,Molineux Stadium
+16,Sat,12/9/2023,3:00:00 PM,Manchester Utd,1.1,0-3,1.5,Bournemouth,73427,Old Trafford
+16,Sat,12/9/2023,5:30:00 PM,Aston Villa,0.6,1-0,1.4,Arsenal,42000,Villa Park
+16,Sun,12/10/2023,2:00:00 PM,Luton Town,0.3,1-2,1.6,Manchester City,11047,Kenilworth Road
+16,Sun,12/10/2023,2:00:00 PM,Fulham,2.3,5-0,1.3,West Ham,23988,Craven Cottage
+16,Sun,12/10/2023,2:00:00 PM,Everton,1.2,2-0,0.9,Chelsea,39280,Goodison Park
+16,Sun,12/10/2023,4:30:00 PM,Tottenham,3.8,4-1,1.7,Newcastle Utd,61171,Tottenham Hotspur Stadium
+17,Fri,12/15/2023,8:00:00 PM,Nott'ham Forest,1.3,0-2,1.5,Tottenham,29296,City Ground
+17,Sat,12/16/2023,3:00:00 PM,Chelsea,3.1,2-0,0.4,Sheffield Utd,39599,Stamford Bridge
+17,Sat,12/16/2023,3:00:00 PM,Newcastle Utd,3.5,3-0,0.3,Fulham,52055,St James' Park
+17,Sat,12/16/2023,3:00:00 PM,Manchester City,1.6,2-2,1.8,Crystal Palace,53248,Etihad Stadium
+17,Sat,12/16/2023,5:30:00 PM,Burnley,0.7,0-2,1.4,Everton,21413,Turf Moor
+17,Sun,12/17/2023,2:00:00 PM,West Ham,1.1,3-0,0.7,Wolves,62455,London Stadium
+17,Sun,12/17/2023,2:00:00 PM,Arsenal,2.3,2-0,0.7,Brighton,60257,Emirates Stadium
+17,Sun,12/17/2023,2:00:00 PM,Brentford,0.5,1-2,1.4,Aston Villa,17034,Gtech Community Stadium
+17,Sun,12/17/2023,4:30:00 PM,Liverpool,2.3,0-0,0.8,Manchester Utd,57158,Anfield
+18,Thu,12/21/2023,8:00:00 PM,Crystal Palace,1.3,1-1,1.2,Brighton,24171,Selhurst Park
+18,Fri,12/22/2023,8:00:00 PM,Aston Villa,0.9,1-1,0.6,Sheffield Utd,41651,Villa Park
+18,Sat,12/23/2023,12:30:00 PM,West Ham,1.2,2-0,1,Manchester Utd,64472,London Stadium
+18,Sat,12/23/2023,3:00:00 PM,Fulham,1.3,0-2,0.4,Burnley,23598,Craven Cottage
+18,Sat,12/23/2023,3:00:00 PM,Nott'ham Forest,1,2-3,1.6,Bournemouth,29188,City Ground
+18,Sat,12/23/2023,3:00:00 PM,Luton Town,1.4,1-0,1.4,Newcastle Utd,11042,Kenilworth Road
+18,Sat,12/23/2023,3:00:00 PM,Tottenham,1.5,2-1,1.8,Everton,61808,Tottenham Hotspur Stadium
+18,Sat,12/23/2023,5:30:00 PM,Liverpool,1,1-1,0.7,Arsenal,57548,Anfield
+18,Sun,12/24/2023,1:00:00 PM,Wolves,1.3,2-1,2,Chelsea,31641,Molineux Stadium
+19,Tue,12/26/2023,12:30:00 PM,Newcastle Utd,2.4,1-3,3.5,Nott'ham Forest,52207,St James' Park
+19,Tue,12/26/2023,3:00:00 PM,Bournemouth,1.8,3-0,0.3,Fulham,11099,Vitality Stadium
+19,Tue,12/26/2023,3:00:00 PM,Sheffield Utd,2.4,2-3,0.6,Luton Town,31041,Bramall Lane
+19,Tue,12/26/2023,5:30:00 PM,Burnley,0.8,0-2,1.8,Liverpool,21624,Turf Moor
+19,Tue,12/26/2023,8:00:00 PM,Manchester Utd,1.1,3-2,1.7,Aston Villa,73574,Old Trafford
+19,Wed,12/27/2023,7:30:00 PM,Brentford,2.2,1-4,2.4,Wolves,17109,Gtech Community Stadium
+19,Wed,12/27/2023,7:30:00 PM,Chelsea,2.6,2-1,1.1,Crystal Palace,39618,Stamford Bridge
+19,Wed,12/27/2023,8:15:00 PM,Everton,1,1-3,2.4,Manchester City,39327,Goodison Park
+19,Thu,12/28/2023,7:30:00 PM,Brighton,3.2,4-2,2.3,Tottenham,31675,Amex Stadium
+19,Thu,12/28/2023,8:15:00 PM,Arsenal,2.7,0-2,1.4,West Ham,60261,Emirates Stadium
+20,Sat,12/30/2023,12:30:00 PM,Luton Town,2.3,2-3,1.5,Chelsea,11041,Kenilworth Road
+20,Sat,12/30/2023,3:00:00 PM,Crystal Palace,1,3-1,1.4,Brentford,25472,Selhurst Park
+20,Sat,12/30/2023,3:00:00 PM,Wolves,1.9,3-0,0.4,Everton,31639,Molineux Stadium
+20,Sat,12/30/2023,3:00:00 PM,Manchester City,2.2,2-0,0.3,Sheffield Utd,53108,Etihad Stadium
+20,Sat,12/30/2023,3:00:00 PM,Aston Villa,3.2,3-2,1.2,Burnley,41613,Villa Park
+20,Sat,12/30/2023,5:30:00 PM,Nott'ham Forest,0.7,2-1,0.8,Manchester Utd,29529,City Ground
+20,Sun,12/31/2023,2:00:00 PM,Fulham,1.2,2-1,1.6,Arsenal,24444,Craven Cottage
+20,Sun,12/31/2023,2:00:00 PM,Tottenham,2.3,3-1,1.7,Bournemouth,61780,Tottenham Hotspur Stadium
+20,Mon,1/1/2024,8:00:00 PM,Liverpool,7,4-2,0.6,Newcastle Utd,57471,Anfield
+20,Tue,1/2/2024,7:30:00 PM,West Ham,0.7,0-0,2.3,Brighton,62462,London Stadium
+21,Fri,1/12/2024,7:45:00 PM,Burnley,1.1,1-1,0.9,Luton Town,20155,Turf Moor
+21,Sat,1/13/2024,12:30:00 PM,Chelsea,2.2,1-0,0.8,Fulham,39643,Stamford Bridge
+21,Sat,1/13/2024,5:30:00 PM,Newcastle Utd,1.3,2-3,3,Manchester City,52190,St James' Park
+21,Sun,1/14/2024,2:00:00 PM,Everton,1.1,0-0,1.2,Aston Villa,39284,Goodison Park
+21,Sun,1/14/2024,4:30:00 PM,Manchester Utd,0.8,2-2,1.2,Tottenham,73489,Old Trafford
+21,Sat,1/20/2024,12:30:00 PM,Arsenal,3.3,5-0,0.3,Crystal Palace,60284,Emirates Stadium
+21,Sat,1/20/2024,5:30:00 PM,Brentford,1.2,3-2,1.2,Nott'ham Forest,17077,Gtech Community Stadium
+21,Sun,1/21/2024,2:00:00 PM,Sheffield Utd,2.5,2-2,2.3,West Ham,29164,Bramall Lane
+21,Sun,1/21/2024,4:30:00 PM,Bournemouth,1.4,0-4,1.5,Liverpool,11228,Vitality Stadium
+21,Mon,1/22/2024,7:45:00 PM,Brighton,1,0-0,1.1,Wolves,41505,Amex Stadium
+22,Tue,1/30/2024,7:30:00 PM,Nott'ham Forest,0.5,1-2,1.2,Arsenal,29387,City Ground
+22,Tue,1/30/2024,7:45:00 PM,Luton Town,3.1,4-0,0.9,Brighton,10994,Kenilworth Road
+22,Tue,1/30/2024,7:45:00 PM,Fulham,1.6,0-0,1.9,Everton,24376,Craven Cottage
+22,Tue,1/30/2024,8:00:00 PM,Crystal Palace,1.1,3-2,0.8,Sheffield Utd,24781,Selhurst Park
+22,Tue,1/30/2024,8:15:00 PM,Aston Villa,1.4,1-3,2.6,Newcastle Utd,42191,Villa Park
+22,Wed,1/31/2024,7:30:00 PM,Manchester City,1.7,3-1,1.4,Burnley,52143,Etihad Stadium
+22,Wed,1/31/2024,7:30:00 PM,Tottenham,2.9,3-2,1.6,Brentford,61210,Tottenham Hotspur Stadium
+22,Wed,1/31/2024,8:15:00 PM,Liverpool,2.9,4-1,0.6,Chelsea,57524,Anfield
+22,Thu,2/1/2024,7:30:00 PM,West Ham,1.4,1-1,1.2,Bournemouth,62478,London Stadium
+22,Thu,2/1/2024,8:15:00 PM,Wolves,2.1,3-4,3.3,Manchester Utd,31641,Molineux Stadium
+23,Sat,2/3/2024,12:30:00 PM,Everton,2.6,2-2,1,Tottenham,39321,Goodison Park
+23,Sat,2/3/2024,3:00:00 PM,Burnley,1.8,2-2,1.5,Fulham,20203,Turf Moor
+23,Sat,2/3/2024,3:00:00 PM,Brighton,1.4,4-1,0.3,Crystal Palace,31345,Amex Stadium
+23,Sat,2/3/2024,3:00:00 PM,Newcastle Utd,2.3,4-4,2.4,Luton Town,52211,St James' Park
+23,Sat,2/3/2024,5:30:00 PM,Sheffield Utd,1.4,0-5,2.2,Aston Villa,30187,Bramall Lane
+23,Sun,2/4/2024,2:00:00 PM,Chelsea,1.7,2-4,2,Wolves,39628,Stamford Bridge
+23,Sun,2/4/2024,2:00:00 PM,Bournemouth,1.3,1-1,0.5,Nott'ham Forest,11200,Vitality Stadium
+23,Sun,2/4/2024,2:00:00 PM,Manchester Utd,0.7,3-0,1.4,West Ham,73612,Old Trafford
+23,Sun,2/4/2024,4:30:00 PM,Arsenal,3.5,3-1,0.4,Liverpool,60374,Emirates Stadium
+23,Mon,2/5/2024,8:00:00 PM,Brentford,1,1-3,2.1,Manchester City,17096,Gtech Community Stadium
+24,Sat,2/10/2024,12:30:00 PM,Manchester City,1.6,2-0,0.3,Everton,52187,Etihad Stadium
+24,Sat,2/10/2024,3:00:00 PM,Wolves,1,0-2,1.9,Brentford,30731,Molineux Stadium
+24,Sat,2/10/2024,3:00:00 PM,Fulham,1.6,3-1,1.8,Bournemouth,24271,Craven Cottage
+24,Sat,2/10/2024,3:00:00 PM,Tottenham,1.6,2-1,1.2,Brighton,61445,Tottenham Hotspur Stadium
+24,Sat,2/10/2024,3:00:00 PM,Liverpool,2.8,3-1,1.3,Burnley,59896,Anfield
+24,Sat,2/10/2024,3:00:00 PM,Luton Town,1.8,1-3,1.7,Sheffield Utd,11138,Kenilworth Road
+24,Sat,2/10/2024,5:30:00 PM,Nott'ham Forest,1.5,2-3,0.5,Newcastle Utd,29451,City Ground
+24,Sun,2/11/2024,2:00:00 PM,West Ham,0.2,0-6,3.6,Arsenal,62475,London Stadium
+24,Sun,2/11/2024,4:30:00 PM,Aston Villa,2.4,1-2,1.8,Manchester Utd,42185,Villa Park
+24,Mon,2/12/2024,8:00:00 PM,Crystal Palace,0.6,1-3,1.4,Chelsea,25110,Selhurst Park
+25,Sat,2/17/2024,12:30:00 PM,Brentford,1.6,1-4,2.8,Liverpool,17193,Gtech Community Stadium
+25,Sat,2/17/2024,3:00:00 PM,Nott'ham Forest,2.8,2-0,0.5,West Ham,29490,City Ground
+25,Sat,2/17/2024,3:00:00 PM,Burnley,0.3,0-5,2.3,Arsenal,21311,Turf Moor
+25,Sat,2/17/2024,3:00:00 PM,Fulham,1.5,1-2,1.5,Aston Villa,24401,Craven Cottage
+25,Sat,2/17/2024,3:00:00 PM,Newcastle Utd,2.2,2-2,2.2,Bournemouth,52224,St James' Park
+25,Sat,2/17/2024,3:00:00 PM,Tottenham,1.6,1-2,1.8,Wolves,61532,Tottenham Hotspur Stadium
+25,Sat,2/17/2024,5:30:00 PM,Manchester City,2.6,1-1,1.4,Chelsea,52178,Etihad Stadium
+25,Sun,2/18/2024,2:00:00 PM,Sheffield Utd,0.6,0-5,2.9,Brighton,29522,Bramall Lane
+25,Sun,2/18/2024,4:30:00 PM,Luton Town,1.8,1-2,2.9,Manchester Utd,11483,Kenilworth Road
+25,Mon,2/19/2024,8:00:00 PM,Everton,1.7,1-1,0.7,Crystal Palace,38164,Goodison Park
+18,Tue,2/20/2024,7:30:00 PM,Manchester City,2.3,1-0,0.4,Brentford,52247,Etihad Stadium
+26,Wed,2/21/2024,7:30:00 PM,Liverpool,3.3,4-1,0.9,Luton Town,59713,Anfield
+26,Sat,2/24/2024,3:00:00 PM,Aston Villa,3.6,4-2,2.6,Nott'ham Forest,42131,Villa Park
+26,Sat,2/24/2024,3:00:00 PM,Manchester Utd,1.7,1-2,1.2,Fulham,73487,Old Trafford
+26,Sat,2/24/2024,3:00:00 PM,Crystal Palace,2.4,3-0,0.1,Burnley,24042,Selhurst Park
+26,Sat,2/24/2024,3:00:00 PM,Brighton,1.4,1-1,0.3,Everton,41646,Amex Stadium
+26,Sat,2/24/2024,5:30:00 PM,Bournemouth,0.9,0-1,1.6,Manchester City,11184,Vitality Stadium
+26,Sat,2/24/2024,8:00:00 PM,Arsenal,2.8,4-1,0.2,Newcastle Utd,60298,Emirates Stadium
+26,Sun,2/25/2024,1:30:00 PM,Wolves,1.3,1-0,0.6,Sheffield Utd,30789,Molineux Stadium
+26,Mon,2/26/2024,8:00:00 PM,West Ham,1.7,4-2,0.9,Brentford,62450,London Stadium
+27,Sat,3/2/2024,3:00:00 PM,Brentford,1.8,2-2,1.8,Chelsea,17140,Gtech Community Stadium
+27,Sat,3/2/2024,3:00:00 PM,Newcastle Utd,2.1,3-0,0.8,Wolves,52206,St James' Park
+27,Sat,3/2/2024,3:00:00 PM,Fulham,1.3,3-0,1.3,Brighton,24460,Craven Cottage
+27,Sat,3/2/2024,3:00:00 PM,Everton,2.7,1-3,1.9,West Ham,39262,Goodison Park
+27,Sat,3/2/2024,3:00:00 PM,Tottenham,1.9,3-1,0.3,Crystal Palace,61339,Tottenham Hotspur Stadium
+27,Sat,3/2/2024,3:00:00 PM,Nott'ham Forest,1,0-1,2,Liverpool,29603,City Ground
+27,Sat,3/2/2024,5:30:00 PM,Luton Town,1.8,2-3,1.9,Aston Villa,11594,Kenilworth Road
+27,Sun,3/3/2024,1:00:00 PM,Burnley,1.5,0-2,1.1,Bournemouth,19713,Turf Moor
+27,Sun,3/3/2024,3:30:00 PM,Manchester City,3.3,3-1,0.2,Manchester Utd,53514,Etihad Stadium
+27,Mon,3/4/2024,8:00:00 PM,Sheffield Utd,0.2,0-6,2.3,Arsenal,29157,Bramall Lane
+28,Sat,3/9/2024,12:30:00 PM,Manchester Utd,2.7,2-0,1.6,Everton,73601,Old Trafford
+28,Sat,3/9/2024,3:00:00 PM,Wolves,0.8,2-1,2.6,Fulham,30860,Molineux Stadium
+28,Sat,3/9/2024,3:00:00 PM,Bournemouth,3.3,2-2,1.2,Sheffield Utd,11074,Vitality Stadium
+28,Sat,3/9/2024,3:00:00 PM,Crystal Palace,2.7,1-1,0.8,Luton Town,25103,Selhurst Park
+28,Sat,3/9/2024,5:30:00 PM,Arsenal,1.3,2-1,1,Brentford,60331,Emirates Stadium
+28,Sun,3/10/2024,1:00:00 PM,Aston Villa,0.8,0-4,1.5,Tottenham,42310,Villa Park
+28,Sun,3/10/2024,2:00:00 PM,Brighton,0.4,1-0,0.7,Nott'ham Forest,31505,Amex Stadium
+28,Sun,3/10/2024,2:00:00 PM,West Ham,2.1,2-2,0.7,Burnley,62441,London Stadium
+28,Sun,3/10/2024,3:45:00 PM,Liverpool,2.7,1-1,1.6,Manchester City,59947,Anfield
+28,Mon,3/11/2024,8:00:00 PM,Chelsea,1.6,3-2,0.7,Newcastle Utd,37753,Stamford Bridge
+17,Wed,3/13/2024,7:30:00 PM,Bournemouth,2.3,4-3,2,Luton Town,11198,Vitality Stadium
+29,Sat,3/16/2024,3:00:00 PM,Burnley,2.8,2-1,1.1,Brentford,20431,Turf Moor
+29,Sat,3/16/2024,3:00:00 PM,Luton Town,0.6,1-1,2,Nott'ham Forest,11630,Kenilworth Road
+29,Sat,3/16/2024,5:30:00 PM,Fulham,2.6,3-0,2.4,Tottenham,24410,Craven Cottage
+29,Sun,3/17/2024,2:00:00 PM,West Ham,2,1-1,0.7,Aston Villa,62461,London Stadium
+30,Sat,3/30/2024,12:30:00 PM,Newcastle Utd,4.1,4-3,1.4,West Ham,52199,St James' Park
+30,Sat,3/30/2024,3:00:00 PM,Nott'ham Forest,0.9,1-1,1.2,Crystal Palace,29520,City Ground
+30,Sat,3/30/2024,3:00:00 PM,Sheffield Utd,1.9,3-3,1.3,Fulham,30010,Bramall Lane
+30,Sat,3/30/2024,3:00:00 PM,Chelsea,4.2,2-2,1.6,Burnley,39535,Stamford Bridge
+30,Sat,3/30/2024,3:00:00 PM,Tottenham,2.9,2-1,0.5,Luton Town,61534,Tottenham Hotspur Stadium
+30,Sat,3/30/2024,3:00:00 PM,Bournemouth,1.3,2-1,1,Everton,11207,Vitality Stadium
+30,Sat,3/30/2024,5:30:00 PM,Aston Villa,1,2-0,1.5,Wolves,42640,Villa Park
+30,Sat,3/30/2024,8:00:00 PM,Brentford,3.2,1-1,0.6,Manchester Utd,17138,Gtech Community Stadium
+30,Sun,3/31/2024,2:00:00 PM,Liverpool,2.8,2-1,0.5,Brighton,60061,Anfield
+30,Sun,3/31/2024,4:30:00 PM,Manchester City,1,0-0,0.7,Arsenal,52178,Etihad Stadium
+31,Tue,4/2/2024,7:30:00 PM,Newcastle Utd,2.4,1-1,1.4,Everton,52135,St James' Park
+31,Tue,4/2/2024,7:30:00 PM,Nott'ham Forest,1.5,3-1,1.5,Fulham,28997,City Ground
+31,Tue,4/2/2024,7:45:00 PM,Bournemouth,1.1,1-0,0.2,Crystal Palace,11058,Vitality Stadium
+31,Tue,4/2/2024,7:45:00 PM,Burnley,1.3,1-1,0.9,Wolves,21528,Turf Moor
+31,Tue,4/2/2024,8:15:00 PM,West Ham,1.5,1-1,1,Tottenham,62469,London Stadium
+31,Wed,4/3/2024,7:30:00 PM,Brentford,0.6,0-0,1.1,Brighton,17024,Gtech Community Stadium
+31,Wed,4/3/2024,7:30:00 PM,Arsenal,0.7,2-0,0.3,Luton Town,60262,Emirates Stadium
+31,Wed,4/3/2024,8:15:00 PM,Manchester City,3.4,4-1,0.8,Aston Villa,53422,Etihad Stadium
+31,Thu,4/4/2024,7:30:00 PM,Liverpool,1.8,3-1,0.6,Sheffield Utd,60055,Anfield
+31,Thu,4/4/2024,8:15:00 PM,Chelsea,3,4-3,1.5,Manchester Utd,39694,Stamford Bridge
+32,Sat,4/6/2024,12:30:00 PM,Crystal Palace,1.1,2-4,1.9,Manchester City,25132,Selhurst Park
+32,Sat,4/6/2024,3:00:00 PM,Luton Town,1.5,2-1,0.4,Bournemouth,11797,Kenilworth Road
+32,Sat,4/6/2024,3:00:00 PM,Everton,0.9,1-0,0.5,Burnley,39125,Goodison Park
+32,Sat,4/6/2024,3:00:00 PM,Wolves,1.5,1-2,1.2,West Ham,31504,Molineux Stadium
+32,Sat,4/6/2024,3:00:00 PM,Aston Villa,1.5,3-3,1.5,Brentford,42118,Villa Park
+32,Sat,4/6/2024,3:00:00 PM,Fulham,1.2,0-1,1,Newcastle Utd,24418,Craven Cottage
+32,Sat,4/6/2024,5:30:00 PM,Brighton,0.5,0-3,3.4,Arsenal,31677,Amex Stadium
+32,Sun,4/7/2024,3:30:00 PM,Manchester Utd,0.7,2-2,3.6,Liverpool,73501,Old Trafford
+32,Sun,4/7/2024,5:30:00 PM,Sheffield Utd,1.4,2-2,0.3,Chelsea,28638,Bramall Lane
+32,Sun,4/7/2024,6:00:00 PM,Tottenham,1.5,3-1,1.5,Nott'ham Forest,61098,Tottenham Hotspur Stadium
+33,Sat,4/13/2024,12:30:00 PM,Newcastle Utd,2.8,4-0,0.8,Tottenham,52147,St James' Park
+33,Sat,4/13/2024,3:00:00 PM,Manchester City,4.2,5-1,0.5,Luton Town,52149,Etihad Stadium
+33,Sat,4/13/2024,3:00:00 PM,Burnley,1.7,1-1,0.9,Brighton,20687,Turf Moor
+33,Sat,4/13/2024,3:00:00 PM,Nott'ham Forest,1.9,2-2,1,Wolves,29604,City Ground
+33,Sat,4/13/2024,3:00:00 PM,Brentford,1,2-0,0.8,Sheffield Utd,17115,Gtech Community Stadium
+33,Sat,4/13/2024,5:30:00 PM,Bournemouth,1.6,2-2,1.2,Manchester Utd,11229,Vitality Stadium
+33,Sun,4/14/2024,2:00:00 PM,Liverpool,2.7,0-1,2,Crystal Palace,60090,Anfield
+33,Sun,4/14/2024,2:00:00 PM,West Ham,0.9,0-2,3.2,Fulham,62459,London Stadium
+33,Sun,4/14/2024,4:30:00 PM,Arsenal,1.6,0-2,0.9,Aston Villa,60350,Emirates Stadium
+33,Mon,4/15/2024,8:00:00 PM,Chelsea,3.1,6-0,1.5,Everton,39392,Stamford Bridge
+34,Sat,4/20/2024,3:00:00 PM,Sheffield Utd,2.4,1-4,2.2,Burnley,28964,Bramall Lane
+34,Sat,4/20/2024,3:00:00 PM,Luton Town,0.6,1-5,3.1,Brentford,11877,Kenilworth Road
+34,Sat,4/20/2024,7:30:00 PM,Wolves,0.2,0-2,1.2,Arsenal,31621,Molineux Stadium
+34,Sun,4/21/2024,1:30:00 PM,Everton,0.3,2-0,0.9,Nott'ham Forest,39239,Goodison Park
+34,Sun,4/21/2024,3:00:00 PM,Crystal Palace,2.4,5-2,1.3,West Ham,25145,Selhurst Park
+34,Sun,4/21/2024,3:00:00 PM,Aston Villa,2.4,3-1,1.8,Bournemouth,42189,Villa Park
+34,Sun,4/21/2024,4:30:00 PM,Fulham,0.8,1-3,1,Liverpool,24414,Craven Cottage
+29,Tue,4/23/2024,8:00:00 PM,Arsenal,3.3,5-0,1.6,Chelsea,60238,Emirates Stadium
+29,Wed,4/24/2024,7:45:00 PM,Wolves,0.5,0-1,1.9,Bournemouth,25541,Molineux Stadium
+29,Wed,4/24/2024,8:00:00 PM,Everton,1.2,2-0,2.1,Liverpool,38222,Goodison Park
+29,Wed,4/24/2024,8:00:00 PM,Manchester Utd,2.9,4-2,0.8,Sheffield Utd,73549,Old Trafford
+29,Wed,4/24/2024,8:00:00 PM,Crystal Palace,0.9,2-0,0.4,Newcastle Utd,25002,Selhurst Park
+29,Thu,4/25/2024,8:00:00 PM,Brighton,0.6,0-4,1.4,Manchester City,31596,Amex Stadium
+35,Sat,4/27/2024,12:30:00 PM,West Ham,0.7,2-2,1.7,Liverpool,62474,London Stadium
+35,Sat,4/27/2024,3:00:00 PM,Wolves,1.2,2-1,0.6,Luton Town,31531,Molineux Stadium
+35,Sat,4/27/2024,3:00:00 PM,Manchester Utd,2.7,1-1,2.1,Burnley,73571,Old Trafford
+35,Sat,4/27/2024,3:00:00 PM,Fulham,1.1,1-1,1,Crystal Palace,24142,Craven Cottage
+35,Sat,4/27/2024,3:00:00 PM,Newcastle Utd,3.1,5-1,1.5,Sheffield Utd,52196,St James' Park
+35,Sat,4/27/2024,5:30:00 PM,Everton,0.8,1-0,0.9,Brentford,39098,Goodison Park
+35,Sat,4/27/2024,8:00:00 PM,Aston Villa,1.1,2-2,1.6,Chelsea,42354,Villa Park
+35,Sun,4/28/2024,2:00:00 PM,Tottenham,2.3,2-3,1,Arsenal,61554,Tottenham Hotspur Stadium
+35,Sun,4/28/2024,2:00:00 PM,Bournemouth,1.9,3-0,0.9,Brighton,11188,Vitality Stadium
+35,Sun,4/28/2024,4:30:00 PM,Nott'ham Forest,1.9,0-2,0.9,Manchester City,29677,City Ground
+26,Thu,5/2/2024,7:30:00 PM,Chelsea,2.2,2-0,1.6,Tottenham,39086,Stamford Bridge
+36,Fri,5/3/2024,8:00:00 PM,Luton Town,0.8,1-1,1.4,Everton,11873,Kenilworth Road
+36,Sat,5/4/2024,12:30:00 PM,Arsenal,3.3,3-0,0.5,Bournemouth,60348,Emirates Stadium
+36,Sat,5/4/2024,3:00:00 PM,Brentford,0.6,0-0,1.3,Fulham,17090,Gtech Community Stadium
+36,Sat,5/4/2024,3:00:00 PM,Burnley,1,1-4,3.4,Newcastle Utd,21781,Turf Moor
+36,Sat,5/4/2024,3:00:00 PM,Sheffield Utd,2.2,1-3,1.4,Nott'ham Forest,28516,Bramall Lane
+36,Sat,5/4/2024,5:30:00 PM,Manchester City,3.7,5-1,0.3,Wolves,52439,Etihad Stadium
+36,Sun,5/5/2024,2:00:00 PM,Brighton,2.5,1-0,0.1,Aston Villa,31596,Amex Stadium
+36,Sun,5/5/2024,2:00:00 PM,Chelsea,4.1,5-0,0.9,West Ham,39295,Stamford Bridge
+36,Sun,5/5/2024,4:30:00 PM,Liverpool,3.3,4-2,1.2,Tottenham,60075,Anfield
+36,Mon,5/6/2024,8:00:00 PM,Crystal Palace,1.7,4-0,0.4,Manchester Utd,25190,Selhurst Park
+37,Sat,5/11/2024,12:30:00 PM,Fulham,0.1,0-4,3.2,Manchester City,24418,Craven Cottage
+37,Sat,5/11/2024,3:00:00 PM,Newcastle Utd,2.2,1-1,1.4,Brighton,51997,St James' Park
+37,Sat,5/11/2024,3:00:00 PM,Tottenham,2.7,2-1,0.7,Burnley,61148,Tottenham Hotspur Stadium
+37,Sat,5/11/2024,3:00:00 PM,Wolves,1.6,1-3,2.6,Crystal Palace,31424,Molineux Stadium
+37,Sat,5/11/2024,3:00:00 PM,Bournemouth,0.7,1-2,1.1,Brentford,11154,Vitality Stadium
+37,Sat,5/11/2024,3:00:00 PM,Everton,2.3,1-0,0.6,Sheffield Utd,39221,Goodison Park
+37,Sat,5/11/2024,3:00:00 PM,West Ham,3.2,3-1,0.3,Luton Town,62475,London Stadium
+37,Sat,5/11/2024,5:30:00 PM,Nott'ham Forest,1.5,2-3,1.6,Chelsea,29708,City Ground
+37,Sun,5/12/2024,4:30:00 PM,Manchester Utd,0.5,0-1,1.5,Arsenal,73600,Old Trafford
+37,Mon,5/13/2024,8:00:00 PM,Aston Villa,3.1,3-3,1.7,Liverpool,42241,Villa Park
+34,Tue,5/14/2024,8:00:00 PM,Tottenham,1.7,0-2,2.4,Manchester City,61065,Tottenham Hotspur Stadium
+34,Wed,5/15/2024,7:45:00 PM,Brighton,1.3,1-2,1.5,Chelsea,31555,Amex Stadium
+34,Wed,5/15/2024,8:00:00 PM,Manchester Utd,1.5,3-2,2.2,Newcastle Utd,73582,Old Trafford
+38,Sun,5/19/2024,4:00:00 PM,Liverpool,4.5,2-0,0.5,Wolves,60059,Anfield
+38,Sun,5/19/2024,4:00:00 PM,Luton Town,2,2-4,1.1,Fulham,12027,Kenilworth Road
+38,Sun,5/19/2024,4:00:00 PM,Chelsea,1.1,2-1,2.2,Bournemouth,39724,Stamford Bridge
+38,Sun,5/19/2024,4:00:00 PM,Burnley,1.2,1-2,1.7,Nott'ham Forest,21109,Turf Moor
+38,Sun,5/19/2024,4:00:00 PM,Crystal Palace,2.5,5-0,0.9,Aston Villa,25191,Selhurst Park
+38,Sun,5/19/2024,4:00:00 PM,Brighton,1.7,0-2,1.3,Manchester Utd,31662,Amex Stadium
+38,Sun,5/19/2024,4:00:00 PM,Brentford,1.1,2-4,3.4,Newcastle Utd,17124,Gtech Community Stadium
+38,Sun,5/19/2024,4:00:00 PM,Manchester City,1.9,3-1,0.4,West Ham,55097,Etihad Stadium
+38,Sun,5/19/2024,4:00:00 PM,Arsenal,2.9,2-1,0.6,Everton,60312,Emirates Stadium
+38,Sun,5/19/2024,4:00:00 PM,Sheffield Utd,1,0-3,3.1,Tottenham,29116,Bramall Lane
